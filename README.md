@@ -34,7 +34,7 @@ This project is currently in development.
 
 ## 👥 Contributors
 
-- **Zakaria** - @zakariabelassri(https://github.com/zakariabelassri)
-- **Rachid** - @benwmx(https://github.com/benwmx)
-- **Hafid** - @hafidbelk(https://github.com/hafidbelk)
-- **Ziad** - @ziadBouzid(https://github.com/ziadBouzid)
+- **Zakaria** - [@zakariabelassri](https://github.com/zakariabelassri)
+- **Rachid** - [@benwmx](https://github.com/benwmx)
+- **Hafid** - [@hafidbelk](https://github.com/hafidbelk)
+- **Ziad** - [@ziadBouzid](https://github.com/ziadBouzid)
